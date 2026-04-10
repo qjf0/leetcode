@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # It scans .c files in the current directory to extract problem info and dates
 # from comments. 
 # It then generates a character-based heatmap and a chronological activity log.

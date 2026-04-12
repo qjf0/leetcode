@@ -1,4 +1,4 @@
 cd ./c
-./alfred.py > ../readme
+./alfred > ../readme
 cd ..
 cat readme

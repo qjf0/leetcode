@@ -14,6 +14,7 @@ Activity log and heatmap provided by alfred.
 
 Apr 16, 2026:
         leetcode 28 - find the index of the first occurrence in a string  [28.c]
+        leetcode 56 - length of last word                                 [56.c]
 
 Apr 14, 2026:
         leetcode 20 - valid parentheses                                   [20.c]
@@ -57,4 +58,7 @@ Apr 07, 2026:
         leetcode 142 - linked list cycle ii                              [142.c]
         leetcode 21  - merge two sorted lists                             [21.c]
         leetcode 141 - linked list cycle                                 [141.c]
+
+Apr 16, 2025:
+        leetcode 35 - search insert position                              [35.c]
 

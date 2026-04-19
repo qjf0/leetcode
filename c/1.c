@@ -1,11 +1,14 @@
 /* leetcode #1 - two sum
  * Apr 19, 2026
+ */
+
+#include <stdlib.h>
+
+/*
  * A hash map would make this problem a lot easier,
  * but since C doesn't have a built-in hash table and implementing one from
  * scratch is too much trouble, I decided to go with qsort + two pointers.
  */
-
-#include <stdlib.h>
 
 typedef struct item {
         int val;

@@ -15,8 +15,4 @@ Activity log and heatmap provided by alfred.
 Apr 19, 2026:
         leetcode #2 - add two numbers                                      [2.c]
         leetcode #1 - two sum                                              [1.c]
-        ╰─> A hash map would make this problem a lot easier,
-            but since C doesn't have a built-in hash table and implementing one from
-            scratch is too much trouble, I decided to go with qsort + two pointers.
-
 

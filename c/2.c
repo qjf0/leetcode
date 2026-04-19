@@ -1,4 +1,4 @@
-/* leetcode #2 - add two numbers
+/* leetcode 2 - add two numbers
  * Apr 19, 2026
  */
 

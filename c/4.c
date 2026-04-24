@@ -32,11 +32,3 @@ double findMedianSortedArrays(int *n1, int size1, int *n2, int size2)
 
 
 /* binary search */
-double findMedianSortedArrays_bs(int *n1, int s1, int *n2, int s2)
-{
-        if (s1 > s2)
-                return findMedianSortedArrays_bs(n2, s2, n1, s1);
-
-        int total = s1 + s2;
-        int half = (total + 1) / 2;
-}

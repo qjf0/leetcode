@@ -1,4 +1,4 @@
-/* leetcode #1 - two sum
+/* leetcode 1 - two sum
  * Apr 19, 2026
  */
 

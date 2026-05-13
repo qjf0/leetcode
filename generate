@@ -1,0 +1,9 @@
+echo "Heatmaps and logs are generated using my side project, apr." > readme
+echo "(https://github.com/qjf0/apr)" >> readme
+echo "" >> readme
+
+# generating heatmaps and logs via apr
+./apr --unimap ./c .c >> readme
+./apr --list ./c .c | sed 's/\x1b\[[0-9;]*[mGKHJK]//g' >> readme
+
+cat readme
